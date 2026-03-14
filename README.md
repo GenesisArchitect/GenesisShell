@@ -1,0 +1,2 @@
+# GenesisShell
+Works on linux
